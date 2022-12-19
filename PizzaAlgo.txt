@@ -1,0 +1,10 @@
+1. Decide where you want pizza from
+2. Navigate to the site you'd like to order pizza from
+3. Decide what type of pizza you'd like to order
+4. Select the pizza you want to order and edit toppings
+5. Once done selecting pizza type, add the pizza to your cart
+6. Navigate to Cart to checkout
+7. Once in Cart, review order to make sure it's correct
+8. Select Submit order
+9. Select payment type, enter payment information, and sumbit payment 
+10. Order is complete
