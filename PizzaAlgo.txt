@@ -5,6 +5,9 @@
 5. Once done selecting pizza type, add the pizza to your cart
 6. Navigate to Cart to checkout
 7. Once in Cart, review order to make sure it's correct
+Select Carryout or Delivery
+If Carryout choose pickup location
+If Delivery enter your delivery address
 8. Select Submit order
 9. Select payment type, enter payment information, and sumbit payment 
 10. Order is complete
